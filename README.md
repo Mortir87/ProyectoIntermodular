@@ -15,3 +15,5 @@ Integrantes:
 
 ## Ideas Principales
 - Tienda, con gestion de inventario y graficos de venta
+- Juego basico, tipo dinosauro de error 404, bbdd con usuario nivel y puntuaciones
+- Centro de informacion de Cursos y Certificaciones Realizadas.
