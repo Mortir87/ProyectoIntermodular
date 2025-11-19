@@ -10,10 +10,8 @@ Integrantes:
 - Java en Android Studio
 
 **BBDD:**
-- A decidir entre MySQL y SQLite
+- A decidir entre MySQL y Posiblemente BBDD de Objetos(investigar) posiblemente PostgreSQL o MongoDB
 - Servidor Localhost. (se podria intentar montar en un servidor externo sacando mysql mediante dns)
 
 ## Ideas Principales
-- Tienda, con gestion de inventario y graficos de venta
-- Juego basico, tipo dinosauro de error 404, bbdd con usuario nivel y puntuaciones
-- Centro de informacion de Cursos y Certificaciones Realizadas.
+- Cine, venta de entradas, carrousel con cartelera, seleccion de butacas, varias salas, informe de ventas y estadisticas
